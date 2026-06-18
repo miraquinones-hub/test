@@ -21,6 +21,8 @@
     "express": "^4.21.2",
     "dotenv": "^17.2.3",
     "motion": "^12.23.24"
+    "node-domexception": "overrides"
+    
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
